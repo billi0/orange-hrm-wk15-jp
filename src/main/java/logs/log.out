@@ -1,0 +1,39 @@
+2021-12-15 18:12:395 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:769 INFO  HomePage :55 - verifying the welcome message : [[ChromeDriver: chrome on WINDOWS (4a6ee98bd794c4feea8a58cf35ef982e)] -> xpath: //a[@id='welcome']]
+2021-12-15 18:12:552 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:685 INFO  HomePage :62 - verifying the logo : [[ChromeDriver: chrome on WINDOWS (1b0763c112872851ac4721230025503e)] -> xpath: //img[@alt='OrangeHRM']]
+2021-12-15 18:12:451 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:636 INFO  HomePage :67 - Clicking on the user profile logo : [[ChromeDriver: chrome on WINDOWS (0c73b96c3e9e0c7c94f8ac8fbbdce1c8)] -> xpath: //a[@id='welcome']]
+2021-12-15 18:12:924 INFO  HomePage :74 - click on logout: [[ChromeDriver: chrome on WINDOWS (0c73b96c3e9e0c7c94f8ac8fbbdce1c8)] -> xpath: //a[normalize-space()='Logout']]
+2021-12-15 18:12:721 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 18:12:872 INFO  HomePage :80 - click on admin tab : [[ChromeDriver: chrome on WINDOWS (5665b047ce20830ee1e4a9f4633f4787)] -> xpath: //b[normalize-space()='Admin']]
+2021-12-15 18:12:926 INFO  ViewSystemUsersPage :75 - verifying the system users message : [[ChromeDriver: chrome on WINDOWS (5665b047ce20830ee1e4a9f4633f4787)] -> xpath: //h1[normalize-space()='System Users']]
+2021-12-15 18:12:476 INFO  ViewSystemUsersPage :80 - clicking on add button : [[ChromeDriver: chrome on WINDOWS (5665b047ce20830ee1e4a9f4633f4787)] -> xpath: //input[@id='btnAdd']]
+2021-12-15 18:12:534 INFO  AddUserPage :63 - verifying the add users message : [[ChromeDriver: chrome on WINDOWS (5665b047ce20830ee1e4a9f4633f4787)] -> xpath: //h1[@id='UserHeading']]
+2021-12-15 18:12:660 INFO  AddUserPage :68 - selecting user role : Admin
+2021-12-15 18:12:797 INFO  AddUserPage :74 - enter the employee name : Ananya Dash
+2021-12-15 18:12:939 INFO  AddUserPage :79 - enter the employee username : AnanyaDash200
+2021-12-15 18:12:46 INFO  AddUserPage :84 - selecting user status : Disabled
+2021-12-15 18:12:184 INFO  AddUserPage :89 - Enter password[[ChromeDriver: chrome on WINDOWS (5665b047ce20830ee1e4a9f4633f4787)] -> xpath: //input[@id='systemUser_password']]
+2021-12-15 18:12:311 INFO  AddUserPage :93 - Enter confirmation password[[ChromeDriver: chrome on WINDOWS (5665b047ce20830ee1e4a9f4633f4787)] -> xpath: //input[@id='systemUser_confirmPassword']]
+2021-12-15 18:12:413 INFO  AddUserPage :98 - Click on the save Button : [[ChromeDriver: chrome on WINDOWS (5665b047ce20830ee1e4a9f4633f4787)] -> xpath: (//form[@id='frmSystemUser'])[1]//child::p//child::input[1]]
+2021-12-15 18:12:453 INFO  AddUserPage :104 - verifying the add users message : Successfully Saved
+2021-12-15 18:12:216 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 19:12:127 INFO  HomePage :80 - click on admin tab : [[ChromeDriver: chrome on WINDOWS (af4eb5a6a327f44007d1d075ad641b1a)] -> xpath: //b[normalize-space()='Admin']]
+2021-12-15 19:12:173 INFO  ViewSystemUsersPage :75 - verifying the system users message : [[ChromeDriver: chrome on WINDOWS (af4eb5a6a327f44007d1d075ad641b1a)] -> xpath: //h1[normalize-space()='System Users']]
+2021-12-15 19:12:287 INFO  ViewSystemUsersPage :85 - enter the user name :AnanyaDash200
+2021-12-15 19:12:689 INFO  ViewSystemUsersPage :90 - click on the search button :
+2021-12-15 19:12:694 INFO  ViewSystemUsersPage :69 - verifying that user is on the list : AnanyaDash200
+2021-12-15 19:12:456 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 19:12:273 INFO  HomePage :80 - click on admin tab : [[ChromeDriver: chrome on WINDOWS (abd68868c3c3e96a0ece8d0c3c18b00b)] -> xpath: //b[normalize-space()='Admin']]
+2021-12-15 19:12:319 INFO  ViewSystemUsersPage :75 - verifying the system users message : [[ChromeDriver: chrome on WINDOWS (abd68868c3c3e96a0ece8d0c3c18b00b)] -> xpath: //h1[normalize-space()='System Users']]
+2021-12-15 19:12:433 INFO  ViewSystemUsersPage :85 - enter the user name :AnanyaDash200
+2021-12-15 19:12:834 INFO  ViewSystemUsersPage :90 - click on the search button :
+2021-12-15 19:12:840 INFO  ViewSystemUsersPage :69 - verifying that user is on the list : AnanyaDash200
+2021-12-15 19:12:947 INFO  ViewSystemUsersPage :103 - clicks on check box :
+2021-12-15 19:12:64 INFO  ViewSystemUsersPage :108 - clicks on delete button :
+2021-12-15 19:12:834 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 19:12:727 INFO  HomePage :80 - click on admin tab : [[ChromeDriver: chrome on WINDOWS (d23d35e224cd6699dcb853e4797bdfe7)] -> xpath: //b[normalize-space()='Admin']]
+2021-12-15 19:12:772 INFO  ViewSystemUsersPage :75 - verifying the system users message : [[ChromeDriver: chrome on WINDOWS (d23d35e224cd6699dcb853e4797bdfe7)] -> xpath: //h1[normalize-space()='System Users']]
+2021-12-15 19:12:886 INFO  ViewSystemUsersPage :85 - enter the user name :AnanyaDash200
+2021-12-15 19:12:290 INFO  ViewSystemUsersPage :90 - click on the search button :
